@@ -1,0 +1,11 @@
+  .sidebar {
+    width: 147px;
+    background-color:rgb(188, 240, 232);
+    margin-left:7px;
+  }
+  .side-item{
+    display: block;
+    color: black;
+    padding: 18px;
+    text-decoration: none;
+  }

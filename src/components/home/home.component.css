@@ -1,0 +1,30 @@
+.container{
+    
+    background-color: rgb(156, 187, 182);
+    width: 90%;
+    height: 300px;
+
+      
+}
+.underline{
+    border-color:#909090;
+    border-bottom: 1px solid ;
+}
+.title{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.content{
+ text-align: left;
+ margin-top: 30px;
+
+}
+.imagearea{
+    float: left;
+    margin-top: 70px;
+}
+.readmore{
+    margin-top: 45px;
+    text-decoration: underline;
+}

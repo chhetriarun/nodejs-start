@@ -1,0 +1,10 @@
+ ul {
+            background: rgb(188, 240, 232);
+            padding: 4px;
+            position: -webkit-sticky;
+            width: 100%;
+      }
+.nav-item{
+    padding: 10px 110px;
+    
+}
